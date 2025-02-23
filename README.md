@@ -1,6 +1,6 @@
 # Fundamentos de Desenvolvimento com Java
 
-Este repositório contém o material de aprendizado da disciplina **Fundamentos de Desenvolvimento com Java**, da minha faculdade. Aqui estão todos os exemplos de código e exercícios práticos realizados ao longo da matéria.
+Este repositório contém o material de aprendizado da disciplina **Fundamentos de Desenvolvimento com Java**, da minha faculdade. Aqui estão alguns dos exemplos de código e exercícios práticos realizados ao longo da matéria.
 
 ## Competências adquiridas
 
